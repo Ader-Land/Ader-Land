@@ -19,6 +19,7 @@
 |---|---|
 | [**FlameBot**](https://github.com/Ader-Land/FlameBot) | Modern chess engine and desktop GUI. C++, Electron and UCI, with 6 themes, move history and a fast bot. |
 | [**FlameBotUE**](https://github.com/Ader-Land/FlameBotUE) | The FlameBot engine as an Unreal Engine 5 plugin, fully usable from Blueprints. |
+| [**Keepr**](https://github.com/Ader-Land/Keepr) | Android gallery cleaner: swipe photos and videos to keep or delete them. Works fully on-device, with undo, achievements and 6 languages. Expo / React Native, GPL-3.0. [Download the APK](https://github.com/Ader-Land/Keepr/releases/latest). |
 
 ## 🚧 Currently working on
 

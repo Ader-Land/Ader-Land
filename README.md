@@ -11,6 +11,8 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white)
 
 ## ⭐ Featured projects
@@ -20,6 +22,7 @@
 | [**FlameBot**](https://github.com/Ader-Land/FlameBot) | Modern chess engine and desktop GUI. C++, Electron and UCI, with 6 themes, move history and a fast bot. |
 | [**FlameBotUE**](https://github.com/Ader-Land/FlameBotUE) | The FlameBot engine as an Unreal Engine 5 plugin, fully usable from Blueprints. |
 | [**Keepr**](https://github.com/Ader-Land/Keepr) | Android gallery cleaner: swipe photos and videos to keep or delete them. Works fully on-device, with undo, achievements and 6 languages. Expo / React Native, GPL-3.0. [Download the APK](https://github.com/Ader-Land/Keepr/releases/latest). |
+| [**Sonora for Android**](https://github.com/Ader-Land/sonora-android) | Unofficial Android port of the [Sonora](https://github.com/sonorahq/sonora) music client: its Rust core under a Kotlin and Jetpack Compose app, with YouTube Music playback, Spotify sign-in and a media session. Shelved, GPL-3.0. [Download the APK](https://github.com/Ader-Land/sonora-android/releases/latest). |
 
 ## 🚧 Currently working on
 
